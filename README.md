@@ -1,6 +1,7 @@
 # React + Vite
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.![Capture](https://github.com/Faizshaikh6280/Fast-React-Pizza/assets/85018338/9c74e082-be0e-4b31-b4f7-4789202a7198)
+
 
 Currently, two official plugins are available:
 
